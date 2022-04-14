@@ -1,4 +1,4 @@
-![Hello World](https://github.com/NatwarBHAI/image/raw/main/giphy.gif)
+![Hello World](https://github.com/NatwarBHAI/image/raw/main/giphy.gif) <img src="https://github-readme-stats.vercel.app/api?username=NatwarBHAI&theme=highcontrast&show_icons=true&count_private=true">
 Hii There!
 
 🎓 I am Vivek Mishra, a aspiring Web Developer. I am Pursuing in masai school for learning web developing.
