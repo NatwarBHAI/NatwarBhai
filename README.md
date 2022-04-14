@@ -8,4 +8,6 @@ Hii There!
 
 ✈️ I love traveling too. I have been on school trips to nainital in 2017 and family trips to lahan, city in Nepal in 2019.
 
+![](https://github.com/NatwarBHAI/giphy.gif)
+
 <img src="https://github-readme-stats.vercel.app/api?username=NatwarBHAI&theme=highcontrast&show_icons=true&count_private=true">
