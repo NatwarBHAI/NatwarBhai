@@ -1,4 +1,4 @@
-![Hello World]("https://github.com/NatwarBHAI/image/raw/main/giphy.gif" position="absolute")
+![Hello World](https://github.com/NatwarBHAI/image/raw/main/giphy.gif)
 Hii There!
 
 🎓 I am Vivek Mishra, a aspiring Web Developer. I am Pursuing in masai school for learning web developing.
